@@ -2,6 +2,9 @@
 
 Modern real-time chat built by **Praveena Kurukuladithya** (Computer Science & Engineering student). Django + DRF + Channels on the backend, MongoDB for messages, React + Tailwind for the UI.
 
+## 📸 Preview
+![Block Me hero](frontend/docs/preview/block-me-hero.png)
+
 ---
 
 ## ✨ Highlights
